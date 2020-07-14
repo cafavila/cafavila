@@ -1,6 +1,7 @@
 ### Hola 👋
 
 ### Soy **Cesar Avila**
+
 Chileno, padre de una criatura hermosa. Especialista en Tecnologia, creativo, innovador, superexperto tech, con un monton de años de experiencia!!!
 
   - Actualmente me desempeño como consultant Middleware Specialist en DXC Technology, para nuestro cliente LATAM Airlines a quien estamos apoyando en su migracion de sus servidores desde el onpremise al cloud. :airplane:
