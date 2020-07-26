@@ -4,7 +4,7 @@
 
 Chileno, padre de una criatura hermosa. Especialista en Tecnologia, creativo, innovador, superexperto tech, con un monton de años de experiencia!!!
 
-  - Actualmente me desempeño como consultant Middleware Specialist en DXC Technology, para nuestro cliente LATAM Airlines a quien estamos apoyando en su migracion de sus servidores desde el onpremise al cloud. :airplane:
+  - Actualmente me desempeño como Middleware Specialist Consultant en DXC Technology, para nuestro cliente LATAM Airlines a quien estamos apoyando en su migracion de sus servidores desde el onpremise al cloud. :airplane:
   - Estoy cursando un certificado en transformacion digital en el MIT Professional Education. :rocket:
   - Ademas estoy postulando para realizar un Master en Innovation y Emprendimiento Tecnologico en la Universidad Adolfo Ibañez. :robot:
   - Estoy desarrollando un par de proyectos personales. :wrench:
