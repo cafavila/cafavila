@@ -8,7 +8,7 @@ Chileno, padre de una criatura hermosa. Especialista en Tecnologia, creativo, in
   - Estoy cursando un certificado en transformacion digital en el MIT Professional Education. :rocket:
   - Ademas estoy postulando para realizar un Magister en Innovation y Emprendimiento Tecnologico en la Universidad Adolfo Ibañez. :robot:
   - Estoy desarrollando un par de proyectos personales. :wrench:
-  - Ademas soy desarrollador fullstack Hobbyst. No soy superexperto. :frog:
+  - Ademas soy desarrollador fullstack JS Hobbyst. No soy superexperto. :frog:
   - Hincha de Union Española, me gustaba jugar pero ya estoy retirado del futbol. :soccer:
 
 
