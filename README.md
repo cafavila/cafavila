@@ -10,7 +10,7 @@ Chileno, padre de una criatura hermosa. Especialista en Tecnologia, creativo, in
   - Ya estoy inscrito para realizar un Magister en Innovation y Emprendimiento Tecnologico en la Universidad Adolfo Ibañez. :robot:
   - Estoy desarrollando un par de proyectos personales. :wrench:
   - Ademas soy desarrollador fullstack JS Hobbyst. No soy superexperto. :frog:
-  - Hincha de Union Española, me gustaba jugar pero ya estoy retirado del futbol. :soccer:
+  - Hincha de Union Española, me gustaba jugar futbol pero ya estoy retirado. :soccer:
 
 
 <!--
