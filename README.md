@@ -15,6 +15,7 @@ Chileno, padre de una criatura hermosa. Especialista en Tecnologia, creativo, in
   - Ademas soy desarrollador fullstack JS Hobbyst. No soy superexperto. :frog:
   - Hincha de Union Española, me gustaba jugar futbol pero ya estoy retirado. :soccer:
   - Pasatiempo aprender a andar en Roller.
+  - Mi perfil profesional lo puedes encontrar en: www.linkedin.com/in/cesaravilafrias
 
 
 <!--
