@@ -2,19 +2,19 @@
 
 ### Soy **Cesar Avila Frias**
 
-Chileno, padre de una criatura hermosa. Especialista en Tecnologia, creativo, innovador, superexperto tech, con un monton de años de experiencia!!!
+Chileno, padre de una hija hermosa. Especialista en Tecnologia, creativo, innovador, superexperto tech, con un monton de años de experiencia!!!
 
-  - Actualmente me desempeño como Middleware Specialist Consultant en DXC Technology, para nuestro cliente LATAM Airlines a quien estamos apoyando en su migracion de sus servidores desde el onpremise al cloud. :airplane:
-  - Tengo las siguientes Certificaciones fresquitas:
+  - Mi ultimo trabajo fue como Middleware Specialist Consultant en DXC Technology, para nuestro cliente LATAM Airlines a quien apoyando en la migracion de sus servidores desde el onpremise al cloud. :airplane:
+  - Tengo las siguientes Certificaciones:
     -  SAFe Product Owner/Product Manager.
     -  Transformacion Digital en el MIT Professional Education.
-  - Estoy cursando un certificado profesional Industria 4.0 en el MIT Professional Education. :rocket:
-  - Ya estoy inscrito para realizar un Magister en Innovation y Emprendimiento Tecnologico en la Universidad Adolfo Ibañez. :robot:
-  - Tambien tengo un curso de Product Manager en Stanford Online Education.
-  - Estoy desarrollando un par de proyectos personales. :wrench:
-  - Ademas soy desarrollador fullstack JS Hobbyst. No soy superexperto. :frog:
+  - Estoy cursando un Magister en Innovation y Emprendimiento Tecnologico en la Universidad Adolfo Ibañez. :robot:
+  - Ademas, estoy cursando un curso de DevOps en UChicago Online Education.
+  - Tambien estoy realizando los cursos en UDemy para la certificacion de DevOps en AWS.
+  - Como si esto fuera poco estoy aprendiendo Ingles en busca de poder hablarlo y escribirlo fluidamente.
+  - Ademas soy desarrollador fullstack JS Hobbyst. No soy superexperto y no he podido avanzar mucho el ultimo tiempo por tiempo. :frog:
   - Hincha de Union Española, me gustaba jugar futbol pero ya estoy retirado. :soccer:
-  - Pasatiempo aprender a andar en Roller.
+  - Pasatiempo aprender a andar en Roller y deportista de jardin.
   - Mi perfil profesional lo puedes encontrar en: www.linkedin.com/in/cesaravilafrias
 
 
