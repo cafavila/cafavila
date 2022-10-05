@@ -4,14 +4,12 @@
 
 Chileno, padre de una hija hermosa. Especialista en Tecnologia, creativo, innovador, superexperto tech, con un monton de años de experiencia!!!
 
-  - Mi ultimo trabajo fue como Middleware Specialist Consultant en DXC Technology, para nuestro cliente LATAM Airlines a quien apoyando en la migracion de sus servidores desde el onpremise al cloud. :airplane:
+  - Estoy en la busqueda de trabajo como ProjectManager, Scrum Master o Product Owner en el area de TI de la empresa que necesite crecer y crear cosas interesantes.
+  - Mi anterior trabajo fue como Middleware Specialist Consultant en DXC Technology, para nuestro cliente LATAM Airlines a quien apoyando en la migracion de sus servidores desde el onpremise al cloud. :airplane:
   - Tengo las siguientes Certificaciones:
     -  SAFe Product Owner/Product Manager.
     -  Transformacion Digital en el MIT Professional Education.
   - Estoy cursando un Magister en Innovation y Emprendimiento Tecnologico en la Universidad Adolfo Ibañez. :robot:
-  - Ademas, estoy cursando un curso de DevOps en UChicago Online Education.
-  - Tambien estoy realizando los cursos en UDemy para la certificacion de DevOps en AWS.
-  - Como si esto fuera poco estoy aprendiendo Ingles en busca de poder hablarlo y escribirlo fluidamente.
   - Ademas soy desarrollador fullstack JS Hobbyst. No soy superexperto y no he podido avanzar mucho el ultimo tiempo por tiempo. :frog:
   - Hincha de Union Española, me gustaba jugar futbol pero ya estoy retirado. :soccer:
   - Pasatiempo aprender a andar en Roller y deportista de jardin.
