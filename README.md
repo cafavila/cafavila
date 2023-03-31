@@ -4,7 +4,7 @@
 
 Chileno, padre de una hija hermosa. Especialista en Tecnologia, creativo, innovador, superexperto tech, con un monton de años de experiencia!!!
 
-  - Estoy en la busqueda de trabajo como ProjectManager, Scrum Master o Product Owner en el area de TI de la empresa que necesite crecer y crear cosas interesantes.
+  - Estoy en la busqueda de trabajo como Fullstack developer, Scrum Master o Product Owner en el area de TI de la empresa que necesite crecer y crear cosas interesantes.
   - Mi anterior trabajo fue como Middleware Specialist Consultant en DXC Technology, para nuestro cliente LATAM Airlines a quien apoyando en la migracion de sus servidores desde el onpremise al cloud. :airplane:
   - Tengo las siguientes Certificaciones:
     -  SAFe Product Owner/Product Manager.
